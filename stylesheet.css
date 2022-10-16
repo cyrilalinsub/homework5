@@ -7,7 +7,11 @@ body {
     color: cornflowerblue;
 }
 
+.link:hover {
+    color: #00FF00;
+}
+
 #selfie {
-    border: 10px solid transparent;
-    padding: 15px;
+    border: 50px solid;
+    padding: 30px;
 }
