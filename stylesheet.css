@@ -1,0 +1,13 @@
+body {
+    background-color: #CCFFFF;
+    font-size: 2em;
+}
+
+.headings {
+    color: cornflowerblue;
+}
+
+#selfie {
+    border: 10px solid transparent;
+    padding: 15px;
+}
